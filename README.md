@@ -1,7 +1,6 @@
 # Warehouse Data Analysis & Optimization
 
 **Author:** Sandi Muhammad Izra  
-**Role Target:** Warehouse Analyst Intern — GE Vernova  
 **Tools Used:** Excel | Python (Pandas, Matplotlib) | Power BI
 
 ## Project Overview
